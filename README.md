@@ -60,6 +60,7 @@ LOL is built to close these gaps.
 ├── manifesto.md                # Language Rights Declaration
 ├── AUTHORS.md                  # Contributors and license designers
 └── version-history.md          # Change logs and updates
+```
 
 ## 🧠 Who Should Use LOL?
 
