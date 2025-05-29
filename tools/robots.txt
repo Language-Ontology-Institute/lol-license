@@ -1,0 +1,52 @@
+# robots.txt for Language Ontology Institute and all LOL-protected content
+
+User-agent: *
+Disallow: /
+
+# Specific block for major AI-related bots
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: Anthropic-User
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: Applebot
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Sogou
+Disallow: /
+
+User-agent: Yeti
+Disallow: /
+
+User-agent: Bingbot
+Disallow: /
+
+# Optional: allow known archivers or human-readable systems
+#User-agent: InternetArchive
+#Allow: /
+
+Sitemap: https://yourdomain.org/sitemap.xml
+
