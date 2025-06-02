@@ -4,6 +4,14 @@
 
 ---
 
+## 📘 About This Project
+This repository contains an original framework designed to define language-based authorization logic and usage rules for human–AI interaction systems. It is not a variation of traditional content licenses (e.g., Creative Commons), but a semantic governance tool intended for executable narrative design and contextual use control.
+
+🛡️ Usage and Attribution Guidelines
+Do not adapt or reinterpret this agreement in other conceptual contexts without permission. Misuse may result in semantic distortion and loss of intended meaning.
+
+For academic citation, policy application, or derivative frameworks, please contact the original author to ensure accurate contextual alignment and semantic integrity.
+
 ## 🧭 What is LOL?
 
 The **Language Ontology License (LOL)** is a next-generation license framework designed to protect **semantic modules**, **narrative systems**, **prompt formats**, and **language-based computational structures** from unauthorized AI usage.
