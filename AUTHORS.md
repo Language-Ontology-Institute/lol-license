@@ -6,7 +6,7 @@
 ## 🧠 創作者 Creator
 
 - **陳信屹 Tyson Chen**  
-  語言本體研究院創辦人、語法型創業者、語義制度設計師  
+  語言本體研究院創辦人
   發起 Language Ontology License v0.1 並主導初始條款設計與語義範疇建構  
 
 ---
