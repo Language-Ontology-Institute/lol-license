@@ -9,7 +9,7 @@
 This project defines a language-based framework for authorization, usage control, and AI interaction design.  
 It is not a variant of Creative Commons or traditional open-source licenses, but a governance-oriented semantic structure.
 
-This repository contains an original framework designed to define language-based authorization logic and usage rules for human–AI interaction systems. It is not a variation of traditional content licenses (e.g., Creative Commons), but a semantic governance tool intended for executable narrative design and contextual use control.
+This repository contains an original framework designed to define language-based authorization logic and usage rules for human–AI interaction systems. 
 
 ## 🛡️ Usage and Attribution Guidelines
 
@@ -17,12 +17,16 @@ Do not adapt or reinterpret this agreement in other conceptual contexts without 
 
 For academic citation, policy application, or derivative frameworks, please contact the original author to ensure accurate contextual alignment and semantic integrity.
 
+Any reframing of this license in alternate theoretical or academic contexts requires prior written permission from the original author.
+
 ## 🧭 What is LOL?
 
 The **Language Ontology License (LOL)** is a next-generation license framework designed to protect **semantic modules**, **narrative systems**, **prompt formats**, and **language-based computational structures** from unauthorized AI usage.
 
 LOL goes beyond traditional copyright and open-source models.  
 It addresses a rising legal gap: **who owns the operational logic inside prompts, workflows, or AI agents**?
+
+As language becomes the substrate of computation, the structures that govern its use must also be governed.
 
 ---
 
@@ -57,6 +61,8 @@ LOL is built to close these gaps.
 - Issuer: **Tyson Chen (陳信屹)** – Founder of Language Ontology Institute
 - Jurisdiction: Taiwan (臺灣台北地方法院)
 - Status: Personal legal authority, with planned institutional expansion
+
+Reinterpretation of this license in alternate frameworks without consent may constitute misrepresentation or semantic infringement under local jurisdiction.
 
 ---
 
