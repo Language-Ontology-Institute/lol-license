@@ -5,9 +5,14 @@
 ---
 
 ## 📘 About This Project
+
+This project defines a language-based framework for authorization, usage control, and AI interaction design.  
+It is not a variant of Creative Commons or traditional open-source licenses, but a governance-oriented semantic structure.
+
 This repository contains an original framework designed to define language-based authorization logic and usage rules for human–AI interaction systems. It is not a variation of traditional content licenses (e.g., Creative Commons), but a semantic governance tool intended for executable narrative design and contextual use control.
 
-🛡️ Usage and Attribution Guidelines
+## 🛡️ Usage and Attribution Guidelines
+
 Do not adapt or reinterpret this agreement in other conceptual contexts without permission. Misuse may result in semantic distortion and loss of intended meaning.
 
 For academic citation, policy application, or derivative frameworks, please contact the original author to ensure accurate contextual alignment and semantic integrity.
