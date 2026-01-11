@@ -89,16 +89,6 @@ LOL, as a dedicated Semantic IP license, is currently the only language protecti
 
 ---
 
-## 📚 Recommended Further Reading
-
-- Searle, J. (1969). *Speech Acts: An Essay in the Philosophy of Language*
-- Lessig, L. (2004). *Free Culture*
-- Hadfield, G. (2017). *Rules for a Flat World*
-- Nieborg & Poell (2018). *Platform Power and Modular Production*
-- Hsin-Yi (2025). *Syntactic Level Collaboration: Redefining Intellectual Property in the Era of Language Modules* - Not written yet
-
----
-
 ## 📬 Contact
 
 Language Ontology Institute  
