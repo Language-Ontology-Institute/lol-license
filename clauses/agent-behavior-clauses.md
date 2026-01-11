@@ -1,39 +1,39 @@
 # 🤖 agent-behavior-clauses.md
-Language Ontology License 條款子集：AI 代理行為規範
+Language Ontology License Clause Subset: AI Agent Behavior Specifications
 
 ---
 
-## 📌 條款目的
+## 📌 Purpose
 
-本節針對 AI Agent 的使用、轉譯、調用等行為進行明確規範，確保語義模組不被無授權代理鏈或多代理協作架構濫用。
-
----
-
-## 🔒 條文內容
-
-1. **禁止無明示授權之語義代理調用**  
-   - AI 系統不得調用本語義模組，作為語言處理、生成任務之中介代理，除非取得明示授權。
-
-2. **不得嵌入或封裝於 AI agent SDK 中使用**  
-   - 語義模組不得作為 AI agent builder 或 SDK 套件之模組組件，亦不得預設綁入執行流程。
-
-3. **須標示代理身份與語義來源鏈**  
-   - 凡使用者透過代理人獲得語義輸出，應同步顯示來源語義模組與條款標註。
-
-4. **不得跨語義層複製語氣模組**  
-   - 若語義模組涉及語氣、敘事控制，AI 系統不得跨模組調用或拆解後另組代理模組。
+This section explicitly regulates the use, translation, and invocation behaviors of AI Agents, ensuring that semantic modules are not abused by unauthorized agent chains or multi-agent collaboration architectures.
 
 ---
 
-## 🧬 應用範圍
+## 🔒 Clause Content
 
-- Agent builder 平台（如 Langchain, AutoGPT）
-- 多代理鏈式執行架構
-- 含自動 prompt-routing 之代理服務
+1. **No Unauthorized Semantic Agent Invocation**
+   - AI systems must not invoke this semantic module as an intermediary agent for language processing or generation tasks unless explicitly authorized.
+
+2. **No Embedding or Encapsulation in AI Agent SDKs**
+   - Semantic modules must not be used as module components in AI agent builders or SDK packages, nor should they be bundled into execution flows by default.
+
+3. **Must Display Agent Identity and Semantic Source Chain**
+   - Whenever users obtain semantic output through an agent, the source semantic module and license attribution must be displayed synchronously.
+
+4. **No Cross-Semantic Layer Replication of Tone Modules**
+   - If a semantic module involves tone or narrative control, AI systems must not perform cross-module invocation or disassemble it to reassemble a separate agent module.
 
 ---
 
-## 📬 聯絡
+## 🧬 Scope of Application
 
-Language Ontology Institute  
+- Agent builder platforms (e.g., Langchain, AutoGPT)
+- Multi-agent chained execution architectures
+- Agent services containing automatic prompt-routing
+
+---
+
+## 📬 Contact
+
+Language Ontology Institute
 license@languageontology.org

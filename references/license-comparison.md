@@ -1,53 +1,52 @@
-# 🧾 授權條款比較表（license-comparison.md）  
-Language Ontology License（LOL）v0.1 與主流授權類型比較  
+# 🧾 License Comparison Table (license-comparison.md)
+Language Ontology License (LOL) v0.1 vs. Mainstream License Types
 
 ---
 
-| 功能面向 | LOL v0.1 | CC-BY 4.0 | MIT | Apache 2.0 |
-|-----------|----------|-----------|-----|------------|
-| ✅ 適用語義模組 / prompt / 語氣結構 | ✅ | ⚠️ 非預設支援 | ❌ 僅程式碼 | ❌ 僅程式碼 |
-| ✅ 禁止 AI 訓練與 embedding | ✅ 條文明確禁止 | ❌ 完全未規範 | ❌ 可訓練 | ❌ 可訓練 |
-| ✅ 禁止代理鏈使用（agent chaining） | ✅ 條文獨立禁止 | ❌ 無此概念 | ❌ | ❌ |
-| ✅ 控制語義結構 / 敘事架構重構 | ✅ 為條款核心 | ❌ 可改作 | ❌ | ❌ |
-| ✅ 禁止向量化 / 語義拆解 | ✅ 條文明示 | ❌ 無條文規範 | ❌ | ❌ |
-| ✅ 條款模組化可選擴充 | ✅ clause-based 設計 | ❌ 無模組擴充 | ❌ | ❌ |
-| ✅ 條款支援中英雙語 | ✅ dual-language 支援 | ❌ 僅英文 | ✅ | ✅ |
-| ✅ 對 AI 系統有主體辨識能力 | ✅ AI / agent / tool-chain 各自定義 | ❌ 一律視為使用者 | ❌ | ❌ |
-| ✅ 開放教學展示與研究閱讀 | ✅ 可授權標註性使用 | ✅ | ✅ | ✅ |
-| 🧠 條款哲學基礎 | 語義主權與敘事控制 | 著作權共用 | 程式碼重用 | 專利與商業可轉授權 |
-| 🏛 法律適用管轄地 | 台灣（預設）可擴充 | 全球通用 | 無指定 | 無指定 |
+| Functional Aspect | LOL v0.1 | CC-BY 4.0 | MIT | Apache 2.0 |
+|-------------------|----------|-----------|-----|------------|
+| ✅ Applicable to Semantic Modules / Prompts / Tone Structures | ✅ | ⚠️ Not supported by default | ❌ Code only | ❌ Code only |
+| ✅ Prohibits AI Training & Embedding | ✅ Explicitly prohibited | ❌ Completely unregulated | ❌ Trainable | ❌ Trainable |
+| ✅ Prohibits Agent Chaining | ✅ Independently prohibited | ❌ No such concept | ❌ | ❌ |
+| ✅ Controls Semantic Structure / Narrative Architecture Reconstruction | ✅ Core to the license | ❌ Adaptable | ❌ | ❌ |
+| ✅ Prohibits Vectorization / Semantic Decomposition | ✅ Explicitly stated | ❌ No regulation | ❌ | ❌ |
+| ✅ Modular Optional Extension | ✅ Clause-based design | ❌ No modular extension | ❌ | ❌ |
+| ✅ Bilingual Support | ✅ Dual-language support | ❌ English only | ✅ | ✅ |
+| ✅ Subject Identification for AI Systems | ✅ AI / agent / tool-chain defined separately | ❌ All treated as users | ❌ | ❌ |
+| ✅ Open for Teaching Demo & Research Reading | ✅ Authorizable for attributed use | ✅ | ✅ | ✅ |
+| 🧠 Licensing Philosophy Foundation | Semantic Sovereignty & Narrative Control | Copyright Commons | Code Reuse | Patent & Commercial Sublicense |
+| 🏛 Governing Jurisdiction | Taiwan (Default), extensible | Global | Unspecified | Unspecified |
 
 ---
 
-## 💬 小結說明
+## 💬 Summary Explanation
 
-- **LOL 是語義模組導向**：以語言為制度、語氣為結構，設計可控的語義模組掛牌條款
-- **CC 為人類創作共用設計**：對 AI 與代理行為缺乏處理語言結構的能力
-- **MIT / Apache 為程式碼導向授權**：無法對 prompt 或語義模型進行結構性保護
-- **LOL 採「條款模組化」策略**：可未來擴充條文，維持彈性與清晰邊界
-
----
-
-## 📌 授權邏輯對照：使用 vs. 敘事 vs. 語義
-
-| 授權類型 | 核心治理單位 | 適用範疇 | 邊界設定方式 |
-|-----------|---------------|-----------|---------------|
-| MIT / Apache | 使用者行為 | 原始碼 | 透過程式碼行為定義限制 |
-| CC 系列     | 著作內容     | 多媒體內容（圖片、影片、文章） | 通過引用與重製授權控制 |
-| **LOL**     | 語義模組本體 | 語氣、敘事模組、prompt、流程語句 | 透過語義行為條款設定可用性與邊界 |
+- **LOL is Semantic Module Oriented**: Uses language as institution and tone as structure to design controllable semantic module licensing terms.
+- **CC is Designed for Human Creative Commons**: Lacks ability to handle language structure regarding AI and agent behaviors.
+- **MIT / Apache are Code-Oriented Licenses**: Cannot structurally protect prompts or semantic models.
+- **LOL Adopts "Clause Modularization" Strategy**: Future extension of terms possible, maintaining flexibility and clear boundaries.
 
 ---
 
-## 📚 推薦延伸閱讀
+## 📌 Licensing Logic Comparison: Usage vs. Narrative vs. Semantics
 
-- `why-not-cc.md`：深入解析 CC 條款對語義結構的無力處理
-- `manifesto.md`：LOL 的哲學基礎與語義主權宣言
-- `LICENSE-lol-v0.1-dual.md`：中英對照的正式條款
+| License Type | Core Governance Unit | Applicable Scope | Boundary Setting Method |
+|--------------|----------------------|------------------|-------------------------|
+| MIT / Apache | User Behavior | Source Code | Defined limits via code behavior |
+| CC Series | Copyright Content | Multimedia Content (Image, Video, Text) | Controlled via citation and reproduction authorization |
+| **LOL** | Semantic Module Entity | Tone, Narrative Module, Prompt, Flow Sentences | Sets usability and boundaries via semantic behavior clauses |
 
 ---
 
-## 📬 聯絡
+## 📚 Recommended Further Reading
+
+- `why-not-cc.md`: In-depth analysis of CC terms' inability to handle semantic structures.
+- `manifesto.md`: Philosophical foundation of LOL and Semantic Sovereignty Declaration.
+- `LICENSE-lol-v0.1-dual.md`: Official bilingual terms.
+
+---
+
+## 📬 Contact
 
 Language Ontology Institute  
 license@languageontology.org
-

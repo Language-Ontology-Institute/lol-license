@@ -1,35 +1,35 @@
 # 🏷️ meta-tag-guide.md
-Language Ontology License（LOL）元標籤設計指南
+Language Ontology License (LOL) Meta-Tag Design Guide
 
 ---
 
-## 📌 目的 Purpose
+## 📌 Purpose
 
-本文件說明如何在語義模組、語氣稿、prompt 結構等語言資源中加入標準化的元標籤（meta-tag），以利：
+This document explains how to add permissible meta-tags (meta-tag) to language resources such as semantic modules, tone scripts, and prompt structures, in order to:
 
-- 管控 AI 使用情境（train, embed, infer）
-- 授權管理與語義可見性設計
-- 掛牌治理與語言資源鏈管理
-- 與語義指紋系統、agent chain 套件對接
-
----
-
-## 🧩 標準元標籤欄位（meta-tag schema）
-
-| 欄位 | 說明 | 範例 |
-|------|------|------|
-| `license` | 使用之語義授權版本 | `LOL-v0.1` |
-| `use` | 允許使用情境 | `read-only`, `demo`, `non-AI`, `human-in-loop` |
-| `ai-access` | AI 是否可調用 | `false` / `true-if-verified` |
-| `module-type` | 語義模組類型 | `prompt-template`, `tone-asset`, `narrative-unit` |
-| `structure-id` | 模組結構 ID（供 SDK 對應） | `mod:lang:1234` |
-| `chain-permission` | 是否允許被 agent chain 調用 | `no-chain`, `partial`, `explicit-only` |
-| `visible-to` | 可公開對象 | `human`, `partner-org`, `agent-class-C` |
-| `originator` | 原始設計者 | `Tyson Chen` |
+- Control AI usage scenarios (train, embed, infer)
+- Manage licensing and semantic visibility design
+- Handle governance listing and language resource chain management
+- Interface with semantic fingerprint systems and agent chain packages
 
 ---
 
-## 🛠 實作建議格式（YAML Block）
+## 🧩 Standard Meta-Tag Fields (meta-tag schema)
+
+| Field | Description | Example |
+|-------|-------------|---------|
+| `license` | Semantic license version used | `LOL-v0.1` |
+| `use` | Permitted usage scenarios | `read-only`, `demo`, `non-AI`, `human-in-loop` |
+| `ai-access` | Whether AI is allowed to invoke | `false` / `true-if-verified` |
+| `module-type` | Semantic module type | `prompt-template`, `tone-asset`, `narrative-unit` |
+| `structure-id` | Module structure ID (for SDK mapping) | `mod:lang:1234` |
+| `chain-permission` | Whether agent chain invocation is allowed | `no-chain`, `partial`, `explicit-only` |
+| `visible-to` | Publicly visible to | `human`, `partner-org`, `agent-class-C` |
+| `originator` | Original Designer | `Tyson Chen` |
+
+---
+
+## 🛠 Recommended Implementation Format (YAML Block)
 
 ```yaml
 ---
@@ -46,16 +46,16 @@ originator: Tyson Chen
 
 ---
 
-## 🧬 應用場景
+## 🧬 Application Scenarios
 
-- 嵌入語氣稿開頭作為保護標籤
-- 語義模組 JSON schema 標記欄
-- SDK 對 agent-chain 調用時進行 meta-tag 授權檢查
-- 可與 future “語義掛牌系統” 或語義 SDK 串接
+- Embed as a protection tag at the beginning of tone scripts
+- Use as a marking field in semantic module JSON schemas
+- SDK performs meta-tag license checks when invoking agent-chains
+- Can be integrated with future "Semantic Listing Systems" or Semantic SDKs
 
 ---
 
-## 📬 聯絡
+## 📬 Contact
 
 Language Ontology Institute  
 license@languageontology.org

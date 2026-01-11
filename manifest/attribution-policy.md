@@ -1,22 +1,22 @@
 # 🧾 attribution-policy.md
-Language Ontology License：署名政策
+Language Ontology License: Attribution Policy
 
 ---
 
-## 📌 條款目的
+## 📌 Purpose
 
-明確規範在使用、引用、轉載語義模組、語氣資產與語言結構設計時的署名方式，保障創作者語義主權。
-
----
-
-## ✍️ 署名規範
-
-1. **使用模組輸出時，需標註創作者與授權版本**
-2. **若模組用於教材、應用程式、訓練文件，需在顯眼處標示授權條款**
-3. **不得去除、遮蔽語義來源標註**
-4. **允許機器可讀署名格式，如 meta-tag 或 JSON-LD 附檔**
+Explicitly regulates the attribution method when using, citing, or reprinting semantic modules, tone assets, and language structure designs, safeguarding the semantic sovereignty of creators.
 
 ---
 
-## 📬 聯絡
+## ✍️ Attribution Standards
+
+1. **When using module outputs, the creator and license version must be credited.**
+2. **If the module is used in teaching materials, applications, or training documents, the license terms must be displayed prominently.**
+3. **Do not remove or obscure semantic source attributions.**
+4. **Machine-readable attribution formats are permitted, such as meta-tags or attached JSON-LD files.**
+
+---
+
+## 📬 Contact
 license@languageontology.org

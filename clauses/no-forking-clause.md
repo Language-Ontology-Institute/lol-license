@@ -1,29 +1,29 @@
 # ❌ no-forking-clause.md
-Language Ontology License 條款子集：禁止語義模組分叉條款
+Language Ontology License Clause Subset: No Forking Semantic Modules Clause
 
 ---
 
-## 📌 條款目的
+## 📌 Purpose
 
-禁止未經授權者對語義模組進行結構性分叉、語氣重組、或以鏡像語義生成新模組。  
-本條款強調語氣與語義結構的整體性與原創性，不得被拆解改作後另行掛牌。
-
----
-
-## 🔒 條文內容
-
-1. **不得分叉 prompt 結構產生變體模組**  
-   - 即便僅變更單字或語氣配置，亦不得視為新模組，除非取得創作者明確授權。
-
-2. **不得進行語氣模組鏡像**  
-   - 禁止以相同語氣邏輯與回應節奏模擬原模組語感並另行標榜為新創作。
-
-3. **不得於封閉系統重製使用邏輯**  
-   - 無論是否公開發表，於閉源系統內重製原模組語義節奏亦屬侵權行為。
+To prohibit unauthorized parties from structurally forking semantic modules, recombining tones, or generating new modules using mirrored semantics.
+This clause emphasizes the integrity and originality of tone and semantic structure, which must not be disassembled and modified to be relabeled as new work.
 
 ---
 
-## 📬 聯絡
+## 🔒 Clause Content
 
-Language Ontology Institute  
+1. **No Forking of Prompt Structures to Generate Variant Modules**
+   - Even if only individual words or tone configurations are changed, it shall not be considered a new module unless explicit authorization is obtained from the creator.
+
+2. **No Mirroring of Tone Modules**
+   - It is prohibited to simulate the original module's language sense using the same tone logic and response rhythm and relabel it as a new creation.
+
+3. **No Reproduction of Usage Logic in Closed Systems**
+   - Whether publicly published or not, reproducing the semantic rhythm of the original module within a closed-source system also constitutes infringement.
+
+---
+
+## 📬 Contact
+
+Language Ontology Institute
 license@languageontology.org

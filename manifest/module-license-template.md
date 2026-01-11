@@ -1,15 +1,15 @@
 # 📄 module-license-template.md
-Language Ontology License：語義模組授權樣板
+Language Ontology License: Semantic Module License Template
 
 ---
 
-## 📌 使用方法
+## 📌 Usage
 
-本樣板可作為任何語義模組（包括語氣模組、敘事模組、prompt 結構）的預設授權條款附件。
+This template can serve as a default license attachment for any semantic module (including tone modules, narrative modules, prompt structures).
 
 ---
 
-## 🔖 標準格式
+## 🔖 Standard Format
 
 ```yaml
 license: LOL-v0.1
@@ -24,5 +24,5 @@ originator: Your Name
 
 ---
 
-## 📬 聯絡
+## 📬 Contact
 license@languageontology.org

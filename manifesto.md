@@ -1,61 +1,60 @@
-# 📜 Language Ontology License 宣言（manifesto.md）
+# 📜 Language Ontology License Manifesto (manifesto.md)
 
-## 前言
+## Preamble
 
-我們正處於語言被重新定義為運算資源的時代。  
-在 AI 系統無止盡地爬取、學習、模仿的浪潮中，語言作為人類創造、感受與治理的工具，逐步被壓縮為資料燃料、向量參數與模型權重。
+We are in an era where language is being redefined as a computational resource.
+In the endless wave of AI systems crawling, learning, and imitating, language—as a tool for human creation, feeling, and governance—is gradually being compressed into data fuel, vector parameters, and model weights.
 
-這不是技術中性事件，而是一場語義主權的結構重分配。
-
----
-
-## 我們的立場
-
-**Language Ontology License（LOL）** 是一套語義導向的授權條款，旨在重新確立語言創作的權限邊界。  
-它不是單純的著作權擴展，也不是一般的開源條款，而是一種為「語言即制度」時代設計的授權架構。
-
-我們主張：
-
-- 語言模組、prompt 架構、敘事流程圖等應視為「語義結構財」  
-- 此類語義財產不可被視為開放資源自動爬取、訓練、重構  
-- 每一份語言模組都是作者心智結構的映射與治理意圖的表達
+This is not a technologically neutral event, but a structural redistribution of semantic sovereignty.
 
 ---
 
-## 我們的目標
+## Our Position
 
-- 🛡 阻止未經同意的語義模組被用於 AI 模型訓練、代理行為或工具鏈部署
-- 🧠 建立語言創作者對語義流程的完整控制權與明確授權邊界
-- 🌍 成為語義治理領域第一個跨模態、跨文化的語言授權系統
-- 🏛 與政策制定者、學術機構、語言模型設計者對話並影響其設計
+**Language Ontology License (LOL)** is a set of semantics-oriented licensing terms designed to re-establish the boundaries of authority in language creation.
+It is not merely an extension of copyright, nor is it a standard open-source license; rather, it is a licensing framework designed for the "language as institution" era.
 
----
+We assert that:
 
-## 我們的設計原則
-
-1. **語義為主體**：以語言的功能性與制度性為授權對象
-2. **反 AI 侵擾**：條款明確禁止 LLM、agent、RAG 系統的隱性重用
-3. **敘事即治理**：模組即制度，流程即邊界，prompt 即法則
-4. **模組化結構**：支持條款重組、模組授權、條件化開放
-5. **中英對照**：雙語法律敘事，對應本地語境與國際治理語言
+- Language modules, prompt architectures, narrative flowcharts, etc., should be regarded as "semantic structural assets."
+- Such semantic assets must not be treated as open resources to be automatically crawled, trained on, or reconstructed.
+- Every language module is a mapping of the author's mental structure and an expression of governance intent.
 
 ---
 
-## 呼籲參與
+## Our Goals
 
-我們邀請：
-
-- 語言創作者與敘事設計師  
-- 律師、政策制定者、AI 倫理研究者  
-- 開源語言模組維護者  
-- 正在思考 LLM 時代如何保護語言主權的每一位創作者  
-
-與我們共構一種新的語言制度：  
-不是為了封鎖知識，而是為了確立對語言結構的尊重與責任。
+- 🛡 Prevent unauthorized semantic modules from being used in AI model training, agent behaviors, or toolchain deployment.
+- 🧠 Establish complete control and clear licensing boundaries for language creators over semantic flows.
+- 🌍 Become the first cross-modal, cross-cultural language licensing system in the field of semantic governance.
+- 🏛 Engage with policymakers, academic institutions, and language model designers to influence their designs.
 
 ---
 
-Language Ontology Institute  
-Tyson Chen（陳信屹）  
-2025 年 5 月，臺北
+## Our Design Principles
 
+1. **Semantics as Subject**: Licensing focuses on the functionality and institutional nature of language.
+2. **Anti-AI Intrusion**: Explicitly prohibits implicit reuse by LLMs, agents, and RAG systems.
+3. **Narrative as Governance**: Modules are institutions, flows are boundaries, and prompts are laws.
+4. **Modular Structure**: Supports clause recombination, module licensing, and conditional openness.
+5. **Bilingual Correspondence**: Legal narrative in both Chinese and English to address local contexts and international governance language.
+
+---
+
+## Call for Participation
+
+We invite:
+
+- Language creators and narrative designers
+- Lawyers, policymakers, and AI ethics researchers
+- Maintainers of open-source language modules
+- Every creator thinking about how to protect language sovereignty in the LLM era
+
+Join us in constructing a new language institution:
+Not to blockade knowledge, but to establish respect and responsibility for language structures.
+
+---
+
+Language Ontology Institute
+Tyson Chen
+May 2025, Taipei

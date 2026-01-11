@@ -89,7 +89,7 @@ This license governs executable meaning patterns, and as such is not subject to 
 
 ```plaintext
 ├── LICENSE-lol-v0.1.md         # Full legal license (English)
-├── LICENSE-lol-v0.1-zh.md      # 中文參考版本
+├── LICENSE-lol-v0.1-zh.md      # Chinese Reference Version
 ├── clauses/                    # Behavior clauses (no-train, no-fork, etc.)
 ├── manifest/                   # How to license your own semantic modules
 ├── ecosystem/                  # Usage guide, registry, community contract

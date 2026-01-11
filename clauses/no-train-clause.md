@@ -1,35 +1,35 @@
 # 📵 no-train-clause.md
-Language Ontology License 條款子集：禁止訓練條款
+Language Ontology License Clause Subset: No Training Clause
 
 ---
 
-## 📌 條款目的
+## 📌 Purpose
 
-明確禁止以任何形式將語義模組內容作為 AI 模型的訓練資料（train）、嵌入資料（embed）、或推論引數優化依據（fine-tune）。
-
----
-
-## 🔒 條文內容
-
-1. **不得用於 AI 模型訓練、微調、強化學習**  
-   - 模組內容不得作為任何形式之 machine learning input，包括少量學習或增量訓練。
-
-2. **不得嵌入為語義向量庫資源**  
-   - 禁止語義模組轉為 embedding 向量後，儲入語意庫、語氣推薦模型或記憶系統。
-
-3. **不得間接導入於提示工程優化演算法中**  
-   - 不得以模組結構為 prompt tuning / prompt injection 邏輯進行強化優化行為。
+To explicitly prohibit the use of semantic module content in any form as training data (train), embedding data (embed), or inference argument optimization basis (fine-tune) for AI models.
 
 ---
 
-## 🧬 特別補充
+## 🔒 Clause Content
 
-- 可閱讀僅限於人類認知學習、評論與分析使用
-- 使用需標註授權版本與原始創作者
+1. **No Use for AI Model Training, Fine-tuning, or Reinforcement Learning**
+   - Module content must not be used as any form of machine learning input, including few-shot learning or incremental training.
+
+2. **No Embedding as Semantic Vector Library Resources**
+   - It is prohibited to convert semantic modules into embedding vectors and store them in semantic databases, tone recommendation models, or memory systems.
+
+3. **No Indirect Introduction into Prompt Engineering Optimization Algorithms**
+   - The module structure must not be used as logic for prompt tuning / prompt injection optimization behaviors.
 
 ---
 
-## 📬 聯絡
+## 🧬 Special Supplement
 
-Language Ontology Institute  
+- Permitted for human cognitive learning, comment, and analysis use only.
+- Usage must attribute the licensed version and the original creator.
+
+---
+
+## 📬 Contact
+
+Language Ontology Institute
 license@languageontology.org

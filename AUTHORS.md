@@ -1,36 +1,34 @@
-# AUTHORS  
-語言本體授權條款 v0.1 主要作者與參與者名單  
+# AUTHORS
+List of Primary Authors and Contributors for Language Ontology License v0.1
 
 ---
 
-## 🧠 創作者 Creator
+## 🧠 Creator
 
-- **陳信屹 Tyson Chen**  
-  語言本體研究院創辦人
-  發起 Language Ontology License v0.1 並主導初始條款設計與語義範疇建構  
-
----
-
-## 🏗 協作系統貢獻 Co-Pilot System
-
-- **Karina**（陳信屹 AI 執行秘書）協助語義對齊、條款擴展與中英轉寫  
+- **Tyson Chen (陳信屹)**
+  Founder of Language Ontology Institute
+  Initiated Language Ontology License v0.1 and led the initial clause design and semantic scope construction.
 
 ---
 
-## 📜 條款校閱與制度草擬參與者（可擴充）
+## 🏗 Co-Pilot System Contribution
 
-
----
-
-## 🧩 模組擴展貢獻者（可擴充）
-
+- **Karina** (Tyson Chen's AI Executive Secretary)
+  Assisted with semantic alignment, clause expansion, and Chinese-English transcription.
 
 ---
 
-## 🏛 機構註記
+## 📜 Clause Review & Institutional Drafting Contributors (Extensible)
 
-本授權條款由 **語言本體研究院（Language Ontology Institute）** 發行與主導維運。
+---
 
-如需協作開發或申請共創貢獻者身份，請來信：
+## 🧩 Module Extension Contributors (Extensible)
+
+---
+
+## 🏛 Institution Note
+
+This license is issued and maintained by the **Language Ontology Institute**.
+
+For collaboration or to apply for co-creator status, please contact:
 `license@languageontology.org`
-

@@ -1,21 +1,21 @@
 # 💎 semantic-asset-declaration.md
-Language Ontology License：語義資產聲明
+Language Ontology License: Semantic Asset Declaration
 
 ---
 
-## 📌 宣告內容
+## 📌 Declaration Content
 
-本模組、語句、語氣結構為創作者之語義資產，具備語義佈局與節奏配置的原創性，依法受著作權與語義授權條款雙重保護。
-
----
-
-## 📦 涵蓋範圍
-
-- 語氣模組（tone asset）
-- 敘事結構模組（narrative blocks）
-- 多步驟語義流程（semantic task chains）
+This module, sentence, and tone structure are the semantic assets of the creator, possessing originality in semantic layout and rhythm configuration, and are protected by both copyright law and semantic license terms.
 
 ---
 
-## 📬 聯絡
+## 📦 Scope of Coverage
+
+- Tone assets (tone modules)
+- Narrative structure modules (narrative blocks)
+- Multi-step semantic flows (semantic task chains)
+
+---
+
+## 📬 Contact
 license@languageontology.org

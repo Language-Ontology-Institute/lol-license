@@ -1,43 +1,43 @@
 # 🧾 version-history.md
-Language Ontology License 版本歷程紀錄
+Language Ontology License Version History
 
 ---
 
-## 🎯 目的
+## 🎯 Purpose
 
-本文件紀錄 LOL（Language Ontology License）發展歷程、版本更新內容與關鍵改動節點，供開發者、使用者與政策機構查閱。
+This document records the development history, version updates, and key modification nodes of the LOL (Language Ontology License) for developers, users, and policy institutions.
 
 ---
 
 ## 📌 LOL-v0.1 (2025-05)
 
-- 首版語義授權條款發布
-- 定義「語氣模組」「語義模組」「敘事模組」作為授權對象類型
-- 明訂禁止 AI training / embedding / inference 等使用行為
-- 引入模組 meta-tag 標記機制（YAML-based）
-- 推出 vector embedding 免責聲明與 agent 行為限制條款
-- 發表語義掛牌（semantic registry）登錄制度
+- Released the first version of semantic licensing terms.
+- Defined "Tone Modules," "Semantic Modules," and "Narrative Modules" as licensed object types.
+- Explicitly prohibited usage behaviors such as AI training / embedding / inference.
+- Introduced module meta-tagging mechanism (YAML-based).
+- Released vector embedding disclaimer and agent behavior restriction clauses.
+- Published semantic registry listing system.
 
 ---
 
-## 🔭 v0.2（草擬中）
+## 🔭 v0.2 (Drafting)
 
-- 將新增語義 SDK 授權格式
-- 支援 GPT-native 授權格式與 plugin 兼容條款
-- 擴充人機語氣互動授權範疇（tone ↔️ response schema）
-- 加入 License Heatmap 模型，標示不同使用場景風險區
-
----
-
-## 🧠 未來規劃（roadmap）
-
-- v0.3：引入 AI 使用足跡註記標準（AI Traceable License）
-- v1.0：與 Creative Commons / OSI 等國際組織對接建立聯名條款
-- 語義專利草案制度（Semantic Patent Drafts）同步推進
+- Will add Semantic SDK licensing format.
+- Support GPT-native licensing format and plugin compatibility terms.
+- Expand human-machine tone interaction licensing scope (tone ↔️ response schema).
+- Add License Heatmap Model to mark risk zones for different usage scenarios.
 
 ---
 
-## 📬 聯絡
+## 🧠 Future Roadmap
+
+- v0.3: Introduce AI Traceable License standards.
+- v1.0: Interface with international organizations like Creative Commons / OSI to establish co-branded terms.
+- Advance Semantic Patent Drafts system synchronously.
+
+---
+
+## 📬 Contact
 
 Language Ontology Institute  
 license@languageontology.org

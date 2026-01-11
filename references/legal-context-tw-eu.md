@@ -1,80 +1,79 @@
-# ⚖️ 法律語境參照（台灣・歐盟）  
-references/legal-context-tw-eu.md  
+# ⚖️ Legal Context Reference (Taiwan & EU)
+references/legal-context-tw-eu.md
 
 ---
 
-## 📍 本文件目的  
-本文件彙整 Language Ontology License（LOL v0.1）在**台灣與歐盟法律語境下**之可行性、對應架構與潛在保護力，供研究人員、律師、政策制定者與創作者參照。
+## 📍 Purpose of This Document
+This document summarizes the feasibility, corresponding frameworks, and potential protective power of the Language Ontology License (LOL v0.1) under **Taiwanese and EU legal contexts**, to serve as a reference for researchers, lawyers, policymakers, and creators.
 
 ---
 
-## 🇹🇼 台灣法律語境
+## 🇹🇼 Taiwan Legal Context
 
-### 1. 著作權法（民國 84 年修訂後）
+### 1. Copyright Act (Amended in Republic of China Year 84 / 1995)
 
-- 「語言模組」可視為具有獨創性的「文字著作」之一種
-- 著作權法第 5 條、第 9 條保障表達形式（非概念、非思想）
-- 依實務判例，Prompt、對話模組、敘事結構若具有創意編排，即受保護
-- 無須登記即自動產生保護力
+- "Language modules" can be considered a type of "literary work" with originality.
+- Articles 5 and 9 of the Copyright Act protect the form of expression (not concepts or ideas).
+- Based on practical precedents, Prompts, dialogue modules, and narrative structures are protected if they possess creative arrangement.
+- Protection is automatic without the need for registration.
 
-### 2. 民法契約條款
+### 2. Civil Code Contract Terms
 
-- 使用 LOL 授權條款，即構成一種「單方授權合意」（unilateral license contract）
-- 違反條款即構成「授權終止」之事由（可依民法第 153 條、第 245 條處理）
+- Using LOL licensing terms constitutes a "unilateral license contract."
+- Violation of terms constitutes grounds for "license termination" (handled under Civil Code Articles 153 and 245).
 
-### 3. 數位發展部／國科會政策連動
+### 3. Ministry of Digital Affairs / NSTC Policy Alignment
 
-- 台灣政府尚未明確規範 AI 訓練資料合法邊界
-- 然而 LOL 條款有助於引導生成式 AI 產業建立合理授權與責任制度
-- 具潛力納入「可信任 AI 自律條款」框架
-
----
-
-## 🇪🇺 歐盟法律語境
-
-### 1. 歐盟著作權指令（Directive 2019/790）
-
-- 明定著作權涵蓋「數位作品」與「機器可讀格式」
-- 認可語言結構、模組組合可視為 protected work（參照 Article 3）
-
-### 2. Text and Data Mining（TDM）條款
-
-- 雖允許研究用途 TDM，但第 4 條規定：**若權利人明確保留權利，即不可使用**
-- LOL 條款若嵌入「no TDM」語言，具有法律效力（可加入技術措施標記）
-
-### 3. AI Act（人工智慧法案草案）
-
-- 草案強調：必須標示訓練來源、尊重資料所有者之意願
-- LOL 條款可作為「語言模組的使用規則／使用限制聲明」
-- 與 Transparency Obligation（透明性義務）具相容性
+- The Taiwan government has not defined clear legal boundaries for AI training data.
+- However, LOL terms help guide the generative AI industry to establish reasonable licensing and liability systems.
+- Has the potential to be included in the "Trustworthy AI Self-Regulation" framework.
 
 ---
 
-## 📚 國際法律研究補充
+## 🇪🇺 EU Legal Context
 
-| 法源類型 | 對應意涵 |
-|----------|----------|
-| 🇺🇸 美法系 | 著作權法偏重表達形式，LOL 條款若明確標註模組結構，即可保護語義排列與互動流程 |
-| 🇯🇵 日本法 | 鼓勵創作保護與合理使用分離，LOL 可作為限定 AI 使用場景的授權條款 |
-| 🌍 WIPO | 尚未有針對語義模組與 AI prompt 的明確條款，LOL 可作為新型語義權利起點草案 |
+### 1. EU Copyright Directive (Directive 2019/790)
+
+- Explicitly states that copyright covers "digital works" and "machine-readable formats."
+- Recognizes language structures and module combinations as protected works (refer to Article 3).
+
+### 2. Text and Data Mining (TDM) Clauses
+
+- While TDM for research purposes is allowed, Article 4 stipulates: **If the rights holder explicitly reserves rights, it cannot be used.**
+- LOL terms, if embedding "no TDM" language, have legal effect (technical measures marking can be added).
+
+### 3. AI Act (Artificial Intelligence Act Draft)
+
+- The draft emphasizes: Must label training sources and respect the will of data owners.
+- LOL terms can serve as "Language Module Usage Rules / Usage Restriction Statements."
+- Compatible with Transparency Obligations.
 
 ---
 
-## 🧠 小結：LOL 的法律地位定位
+## 📚 International Legal Research Supplement
 
-| 層級 | LOL 在法律語境中的作用 |
-|------|-------------------------|
-| 私人合約 | 作為授權條款，具有契約效力 |
-| 著作權保障 | 作為語言模組之原創編排，具備自動保護性 |
-| AI 使用限制聲明 | 為 Text and Data Mining 提供排除依據 |
-| 制度創新原型 | 有機會成為語義治理標準之一，補足 CC 條款空白 |
+| Legal Source Type | Corresponding Implication |
+|-------------------|---------------------------|
+| 🇺🇸 US Law | Copyright law focuses on expression form; if LOL terms explicitly mark module structure, they can protect semantic arrangement and interaction flow. |
+| 🇯🇵 Japan Law | Separates creation protection and fair use; LOL can serve as licensing terms limiting AI usage scenarios. |
+| 🌍 WIPO | No clear terms for semantic modules and AI prompts yet; LOL can serve as a draft starting point for new semantic rights. |
 
 ---
 
-## 📬 聯絡
+## 🧠 Summary: LOL's Legal Status Positioning
 
-如需法律顧問協作、條款共同研擬、加入國際推動聯盟  
-請聯絡：  
+| Level | Role of LOL in Legal Context |
+|-------|------------------------------|
+| Private Contract | As licensing terms, has contractual validity. |
+| Copyright Protection | As original arrangement of language modules, possesses automatic protection. |
+| AI Usage Restriction Statement | Provides exclusion basis for Text and Data Mining. |
+| Institutional Innovation Prototype | Opportunity to become one of the semantic governance standards, filling the gap of CC terms. |
+
+---
+
+## 📬 Contact
+
+For legal counsel collaboration, joint drafting of terms, or joining the international promotion alliance,  
+Please contact:  
 `license@languageontology.org`  
-Language Ontology Institute（語言本體研究院）
-
+Language Ontology Institute

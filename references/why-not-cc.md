@@ -1,84 +1,83 @@
-# 🤔 為什麼我們不能用 Creative Commons？  
-Why Not Use Creative Commons (CC) for Semantic Modules?
+# 🤔 Why Not Use Creative Commons (CC) for Semantic Modules?
+references/why-not-cc.md
 
 ---
 
-## 🧩 前言
+## 🧩 Preamble
 
-許多創作者習慣性選擇 CC-BY 或 CC-BY-NC 作為非商業用途保護手段。  
-但在 AI 時代，**語言已不再只是創作內容，而是機器運作的程式碼與治理結構。**
+Many creators habitually choose CC-BY or CC-BY-NC as a means of non-commercial protection.
+But in the AI era, **language is no longer just creative content, but code and governance structure for machine operation.**
 
-Creative Commons（CC）設計於 2001 年，其原始設計重點為：
+Creative Commons (CC) was designed in 2001, with its original design focus on:
 
-- 支援人類之間的內容共享與再製
-- 著作權保護框架下的合法散布與標註
-- 對 AI 使用、模組解構、向量化無任何規範
-
----
-
-## ❌ CC 條款的五個結構性盲點（對語義模組而言）
-
-| 問題面向 | CC 系列授權 | 對語義模組的風險 |
-|----------|--------------|------------------|
-| AI 模型訓練 | 無限制／未提及 | 模組可能被 LLM 直接抓取訓練 |
-| prompt 拆解使用 | 不禁止語句重構 | 模組邏輯可被分解模仿 |
-| Agent 工具鏈應用 | 無適用語意定義 | 語義流程可被導入代理鏈中 |
-| 向量化／相似性匹配 | 完全未規範 | 被嵌入 vector DB 並做語義 mapping |
-| 使用者身份限制 | 僅區分商用與非商用 | 無法對 AI agent 身份做區隔與授權管理 |
+- Supporting content sharing and reproduction between humans
+- Legal distribution and attribution under the copyright framework
+- No regulations on AI usage, module deconstruction, or vectorization
 
 ---
 
-## 🛡 Language Ontology License 的補位設計
+## ❌ Five Structural Blind Spots of CC Terms (For Semantic Modules)
 
-**Language Ontology License（LOL）** 並非取代 CC，而是作為一種語義防禦型補位協議：  
-
-| 功能面向 | LOL v0.1 設計 |
-|-----------|---------------|
-| AI 禁用條款 | ✅ 明確禁止 training / embedding / inference |
-| 語義模組保護 | ✅ 防止 prompt-chain / 結構模仿 |
-| agent 工具鏈封鎖 | ✅ 禁止 tool-calling / semantic chaining |
-| 非人主體身份辨識 | ✅ 條款可擴展至 "AI、代理人、合成工具" |
-| 人類學習容許性 | ✅ 閱讀、引用、教學展示可授權使用 |
+| Issue Aspect | CC Series Licenses | Risk to Semantic Modules |
+|--------------|--------------------|--------------------------|
+| AI Model Training | Unrestricted / Not mentioned | Modules may be directly crawled and trained by LLMs |
+| Prompt Deconstruction Usage | Does not prohibit sentence reconstruction | Module logic can be decomposed and imitated |
+| Agent Toolchain Application | No applicable semantic definition | Semantic flows can be introduced into agent chains |
+| Vectorization / Similarity Matching | Completely unregulated | Embedded into vector DBs for semantic mapping |
+| User Identity Restriction | Only distinguishes commercial vs. non-commercial | Cannot distinguish between human and AI agent identities for licensing management |
 
 ---
 
-## 🎯 核心觀點：CC 是「內容共享」，LOL 是「語義控制」
+## 🛡 Language Ontology License's Complementary Design
 
-Creative Commons 適合下列場景：
+**Language Ontology License (LOL)** does not replace CC, but serves as a semantic defensive complementary protocol:
 
-- 教案教材分享
-- 圖片、影片、文章再發佈
-- 人與人之間的作品流通
-
-Language Ontology License 適合下列場景：
-
-- prompt 系統、語義模組、防 LLM 結構複製
-- 用於教學但避免被自動學習、模仿、拆解
-- 控制 AI agent 如何存取語言工具鏈
+| Functional Aspect | LOL v0.1 Design |
+|-------------------|-----------------|
+| AI Prohibition Clause | ✅ Explicitly prohibits training / embedding / inference |
+| Semantic Module Protection | ✅ Prevents prompt-chain / structure imitation |
+| Agent Toolchain Blocking | ✅ Prohibits tool-calling / semantic chaining |
+| Non-Human Subject Identification | ✅ Terms extensible to "AI, agents, synthetic tools" |
+| Human Learning Permissibility | ✅ Reading, citation, teaching demonstration authorization available |
 
 ---
 
-## ✅ 小結
+## 🎯 Core Perspective: CC is "Content Sharing", LOL is "Semantic Control"
 
-| 問題 | LOL 解法 | CC 限制 |
-|------|----------|---------|
-| 防止 LLM 抓取 | ✅ 條文明確 | ❌ 完全無定義 |
-| 禁止 AI 代理人再用 | ✅ 條文包含 | ❌ 無法描述非人主體 |
-| 控制語義結構與語氣模組 | ✅ 對語句有語法控制邏輯 | ❌ 無結構性語言處理能力 |
-| 作為語義授權依據 | ✅ 模組可逐條授權 | ❌ 僅泛用條款無細節模組 |
+Creative Commons is suitable for:
 
----
+- Sharing lesson plans and teaching materials
+- Republishing images, videos, articles
+- Work circulation between humans
 
-## 📝 附註
+Language Ontology License is suitable for:
 
-- CC 依然是一套偉大的著作權體系  
-- 但面對 AI 模型與語義模仿的新技術現實，我們需要一套新的語言授權邏輯  
-- LOL 並非封閉，而是模組化、防禦型、可控可授權的「語義保護機制」  
+- Prompt systems, semantic modules, anti-LLM structure replication
+- Teaching usage but preventing automatic learning, imitation, and disassembly
+- Controlling how AI agents access language toolchains
 
 ---
 
-## 📬 聯絡
+## ✅ Summary
+
+| Issue | LOL Solution | CC Limitation |
+|-------|--------------|---------------|
+| Prevent LLM Crawling | ✅ Explicit terms | ❌ Completely undefined |
+| Prohibit AI Agent Reuse | ✅ Terms included | ❌ Cannot describe non-human subjects |
+| Control Semantic Structure & Tone Modules | ✅ Syntactic control logic for sentences | ❌ No structural language processing capability |
+| Basis for Semantic Licensing | ✅ Modules can be licensed individually | ❌ Only general terms, no detailed modules |
+
+---
+
+## 📝 Notes
+
+- CC remains a great copyright system.
+- But facing the new technical reality of AI models and semantic imitation, we need a new language licensing logic.
+- LOL is not closed, but a modular, defensive, controllable, and authorizable "Semantic Protection Mechanism."
+
+---
+
+## 📬 Contact
 
 Language Ontology Institute  
 license@languageontology.org
-

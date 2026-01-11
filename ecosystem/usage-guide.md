@@ -1,32 +1,32 @@
 # 🧭 usage-guide.md
-Language Ontology License 使用指南
+Language Ontology License Usage Guide
 
 ---
 
-## 📌 本指南包含：
+## 📌 This Guide Covers:
 
-- 授權理解入門
-- 語義模組使用限制說明
-- AI Agent 使用注意事項
-- 常見違規案例與風險提醒
-
----
-
-## ✅ 可以做的事情：
-
-- 人類閱讀、學習與應用模組邏輯（不含 AI 調用）
-- 結合模組於非商業教育內容中
-- 對模組進行個人風格調整（需註明來源）
+- Introduction to license understanding
+- Semantic module usage restrictions
+- AI Agent usage precautions
+- Common violation cases and risk warnings
 
 ---
 
-## ❌ 不可以做的事情：
+## ✅ What You Can Do:
 
-- 將模組作為 AI prompt 進行訓練、嵌入、推論
-- 分叉模組後另行掛牌或收費使用
-- 將語氣模組整合至 chatbot 系統進行對話模擬
+- Human reading, learning, and applying module logic (excluding AI invocation)
+- Combining modules in non-commercial educational content
+- Personal style adjustments to modules (with source attribution)
 
 ---
 
-## 📬 聯絡
+## ❌ What You Cannot Do:
+
+- Using modules as AI prompts for training, embedding, or inference
+- Forking modules to relabel or charge for use
+- Integrating tone modules into chatbot systems for dialogue simulation
+
+---
+
+## 📬 Contact
 license@languageontology.org
